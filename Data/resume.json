@@ -1,0 +1,169 @@
+[
+    {
+        "profile": {
+            "name": "Eoghan Hulbert",
+            "title": "Software Engineer",
+            "profile": "Early career software engineer with 3+ years of professional background\n         in business systems architecture and design, developing scalable\n         solutions, solving complex business problems, and processes automation",
+            "pronouns": "He/Him/His"
+        },
+        "about me": {
+            "theme song": "Kiss Me - Sixpence None The Richer",
+            "last trip": "the fridge",
+            "nicknames": [
+                "Eoghy",
+                "EE-O-GAAN?",
+                "New phone who dis?"
+            ],
+            "keywords": [
+                "Sleepy",
+                "Adorable",
+                "Intelligent"
+            ],
+            "common phrases": [
+                "What was I doing?",
+                "Will there be food?"
+            ]
+        },
+        "qualifications": [
+            "Python, PHP, JavaScript, SQL, HTML, and CSS",
+            "Help Desk background",
+            "Data query and manipulation using RDBMS and SQL",
+            "Agile development methodologies",
+            "Source code management with Git",
+            "Some experience with APIs"
+        ],
+        "contact": {
+            "email": "eoghan@eoghy.dev",
+            "hacker rank": "https://www.hackerrank.com/eoghy/",
+            "replit": "https://www.replit.com/@EoghyUnscripted/",
+            "linkedin": "https://www.linkedin.com/in/eoghanhulbert/",
+            "location": "Seattle Metro, WA"
+        },
+        "education": {
+            "academic": [
+                {
+                    "name": "Southern New Hampshire University",
+                    "city": "Manchester, NH",
+                    "degree": "B.A. Information Technologies conc Software Development",
+                    "year": "2018",
+                    "gpa": "3.25",
+                    "description": [
+                        "Full-stack software development, Java, JavaScript, Mobile App\n  Development (Android), Project Management, Database Design & Management, SQL,\n  Website Design, Computational algorithms, Data structures"
+                    ]
+                }
+            ],
+            "independent": [
+                {
+                    "name": "Self-Directed Learning – Udemy",
+                    "years": "Oct 2020 - Present",
+                    "description": [
+                        "Independent study learning C#/C++, .NET, Angular, APIs, AWS (CDA),\n  advanced Python, and REST",
+                        "Maintain skills in computational algorithms and data structures\n  through Project Euler and Hacker Rank challenges"
+                    ]
+                }
+            ]
+        },
+        "experience": {
+            "relevant": [
+                {
+                    "name": "Metropolitan Life",
+                    "city": "Warwick, RI",
+                    "title": "Web Support Analyst II",
+                    "duration": "Dec 2019 - Oct 2020",
+                    "description": [
+                        "Analyzed Salesforce support tickets and utilized browser developer\n    tools to identify trending website issues and root\n    causes in collaboration with front-end engineers to develop\n    and implement resolutions",
+                        "Maintained the web support knowledge database to provide current\n    and applicable troubleshooting steps and documentation\n    standards for ticket reporting",
+                        "Provided escalated support for tickets that failed first-call\n    resolution and all known troubleshooting procedures"
+                    ]
+                },
+                {
+                    "name": "Amica Mutual Insurance",
+                    "city": "Lincoln, RI",
+                    "title": "Software Engineer | Financial Systems",
+                    "duration": "Sept 2018 - July 2019",
+                    "description": [
+                        "Developed data pipelines and automated procedures for monthly\n    financial reporting, banking and claims reconciliations,\n    and tuition reimbursement processing using SQL, MSSQL,\n    PowerShell, and VBA",
+                        "Routinely scaled the distributed claims system to include new\n    features such as error handling, report templates, UI\n    functions, and updates to MSSQL views for data reuse across\n    the UI",
+                        "Collaborated with peer engineers and stakeholders using Jira\n    to track and report all project-related content in an\n    agile environment and code reviews prior to final delivery\n    and implementation"
+                    ]
+                },
+                {
+                    "name": "Mapfre Insurance, USA",
+                    "city": "Webster, MA",
+                    "title": "Collections Analyst",
+                    "duration": "Nov 2015 - July 2018",
+                    "description": [
+                        "Built complex SQL queries to and data pipelines to analyze\n    historical collections data in MSSQL for use in workflow\n    analysis and procedure overhauls"
+                    ]
+                },
+                {
+                    "name": "MEDIX",
+                    "city": "Smithfield, RI",
+                    "title": "CVS Store Support Representative",
+                    "duration": "Aug 2015 - Nov 2015",
+                    "description": [
+                        "3-month contract providing help desk support for CVS store\n    locations with hardware and software troubleshooting to\n    maintain business operations"
+                    ]
+                }
+            ],
+            "other": [
+                {
+                    "name": "Bartell Drugs",
+                    "city": "Kirkland, WA",
+                    "title": "Second Assistant Manager",
+                    "duration": "Jan 2022 - Present",
+                    "description": [
+                        ""
+                    ]
+                },
+                {
+                    "name": "Party City",
+                    "city": "Bellevue, WA",
+                    "title": "Assistant Manager",
+                    "duration": "Aug 2021 - Nov 2021",
+                    "description": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        "skills": [
+            {
+                "languages": [
+                    "CSS",
+                    "HTML",
+                    "Java (Core)",
+                    "JavaScript",
+                    "JSON",
+                    "SASS",
+                    "SQL",
+                    "Python",
+                    "XML"
+                ],
+                "databases": [
+                    "MSSQL",
+                    "MySQL",
+                    "PostGreSQL"
+                ],
+                "frameworks": [
+                    "Bootstrap",
+                    "Django"
+                ],
+                "tools": [
+                    "CLI",
+                    "Confluence",
+                    "Git",
+                    "GitHub",
+                    "Jira",
+                    "PyCharm",
+                    "VS Code"
+                ]
+            }
+        ],
+        "fun facts": [
+            "Currently learning Irish Gaelic and Welsh",
+            "Taught myself how to play guitar when I was 13",
+            "I have eidetic memory"
+        ]
+    }
+]
