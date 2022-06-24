@@ -143,9 +143,9 @@ dmypy.json
 cython_debug/
 
 # Custom
-Course\ Resources/
 .vscode/
 .DS_Store
 .idea
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+.DS_Store
