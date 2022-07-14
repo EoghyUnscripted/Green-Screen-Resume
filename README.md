@@ -30,6 +30,10 @@ I built this core app as a mini interactive resume. While it might not really en
 
 - The program uses a JSON file for the data, so the structure ***must*** be maintained when modifying the data within the nested lists
 
+#### Replit Demo
+
+- [Green Screen Resume](https://github.com/EoghyUnscripted/Green-Screen-Resume#readme)
+
 ### Resources
 
 - [Python 3](https://www.python.org/downloads/)
