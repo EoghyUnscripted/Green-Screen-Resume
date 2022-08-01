@@ -32,7 +32,7 @@ I built this core app as a mini interactive resume. While it might not really en
 
 #### Replit Demo
 
-- [Green Screen Resume](https://github.com/EoghyUnscripted/Green-Screen-Resume#readme)
+- [Green Screen Resume](https://replit.com/@EoghyUnscripted/Green-Screen-Resume)
 
 ### Resources
 
