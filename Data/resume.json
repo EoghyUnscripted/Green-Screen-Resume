@@ -48,17 +48,20 @@
                     "year": "2018",
                     "gpa": "3.25",
                     "description": [
-                        "Full-stack software development, Java, JavaScript, Mobile App\n  Development (Android), Project Management, Database Design & Management, SQL,\n  Website Design, Computational algorithms, Data structures"
+                        "Participated in 20 courses to learn full stack software development (LAMP) and business systems analysis & design",
+                        "Developed SDLC best practices, project management skills, and taught myself PHP to complete my senior project",
+                        "Learned core Java OOP and began exploration with JavaScript (non-requirement) for web app development"
                     ]
                 }
             ],
             "independent": [
                 {
-                    "name": "Self-Directed Learning – Udemy",
+                    "name": "Self-Directed Development",
                     "years": "Oct 2020 - Present",
                     "description": [
-                        "Independent study learning C#/C++, .NET, Angular, APIs, AWS (CDA),\n  advanced Python, and REST",
-                        "Maintain skills in computational algorithms and data structures\n  through Project Euler and Hacker Rank challenges"
+                        "Dedicated 300+ hours to learn new skills such as API, REST and Python with Udemy and Stackskills online courses",
+                        "Participated in the 100 Days of Code Challenge to expand fluency with Python, another self-taught skill",
+                        "Mentor 3 peers using HTML5, CSS3, JavaScript, Python, and dev tools such as GitHub, PyCharm, and VS Code"
                     ]
                 }
             ]
@@ -68,23 +71,26 @@
                 {
                     "name": "Metropolitan Life",
                     "city": "Warwick, RI",
-                    "title": "Web Support Analyst II",
+                    "title": "Support Engineer",
                     "duration": "Dec 2019 - Oct 2020",
                     "description": [
-                        "Analyzed Salesforce support tickets and utilized browser developer\n    tools to identify trending website issues and root\n    causes in collaboration with front-end engineers to develop\n    and implement resolutions",
-                        "Maintained the web support knowledge database to provide current\n    and applicable troubleshooting steps and documentation\n    standards for ticket reporting",
-                        "Provided escalated support for tickets that failed first-call\n    resolution and all known troubleshooting procedures"
+                        "Produced evidence-based proposals using CRM call data and root cause\n    problem research to resolve 7 major issues affecting\n    the online portals, including account lockouts during early COVID\n    that overloaded call centers",
+                        "Identified 16 issues and bugs of varying impacts with the online portals\n    using browser developer tools that lead to the implementation of custom\n    error codes to reduce call times, increase accuracy\n    and first-call resolution scores",
+                        "Coordinated the installment of a dedicated review team to maintain all\n    systems and troubleshooting documentation in real-time to eliminate\n    5-day SLA period and increase first-call resolution from 83%\n    to 97% within the first month"
                     ]
                 },
                 {
                     "name": "Amica Mutual Insurance",
                     "city": "Lincoln, RI",
-                    "title": "Software Engineer | Financial Systems",
+                    "title": "Software Engineer",
                     "duration": "Sept 2018 - July 2019",
                     "description": [
-                        "Developed data pipelines and automated procedures for monthly\n    financial reporting, banking and claims reconciliations,\n    and tuition reimbursement processing using SQL, MSSQL,\n    PowerShell, and VBA",
-                        "Routinely scaled the distributed claims system to include new\n    features such as error handling, report templates, UI\n    functions, and updates to MSSQL views for data reuse across\n    the UI",
-                        "Collaborated with peer engineers and stakeholders using Jira\n    to track and report all project-related content in an\n    agile environment and code reviews prior to final delivery\n    and implementation"
+                        "Contributed to 17 accounting and cross-functional projects to enhance\n    existing distributed systems and UIs, replace manual procedures\n    using available tech, automation of tasks, and developing\n    new features and systems",
+                        "Led 9 mid-level agile projects from requirements gathering to delivery\n    as project manager, and designed, tested, and implemented new\n    systems and features as developer with the oversight of\n    senior engineers",
+                        "Developed data pipelines and automated procedures for monthly financial\n    reporting, banking and claims reconciliations, and tuition\n    reimbursement processing using SQL, MSSQL, PowerShell, MS Office,\n    and VBA",
+                        "Learned VBA within the first month of hire and used this skill to\n    redevelop and combine 12 Access UIs and create a single scalable,\n    dynamic code for all businesses within Amica for data\n    transformations and formatted file outputs",
+                        "Routinely monitored and scaled the distributed check writing system to\n    include new features such as error handling, templates, UI\n    functions, and updates to MSSQL views to reuse across connected\n    systems using VBA",
+                        "Maintained accounting intranet pages using HTML5 and CSS3 skills to\n    design and update per request"
                     ]
                 },
                 {
@@ -93,13 +99,15 @@
                     "title": "Collections Analyst",
                     "duration": "Nov 2015 - July 2018",
                     "description": [
-                        "Built complex SQL queries to and data pipelines to analyze\n    historical collections data in MSSQL for use in workflow\n    analysis and procedure overhauls"
+                        "Built complex SQL queries and data pipelines to analyze historical\n    collections data in MSSQL for use in workflow analysis and procedure\n    overhauls, reducing third-party expenses by 30%, increasing\n    balance recovery by 16%",
+                        "Participated in 3 cross-functional projects with the CI/CD team to\n    develop UIs used in daily workload management, collections processing\n    for all accounts, management reports, and task reporting",
+                        "Eliminated ~18 hours a week in wasted research effort using billing\n    data to define identifiers for policies not pursued by collections and\n    adjusting the MS Access SQL queries to omit them when\n    pulling in new accounts"
                     ]
                 },
                 {
                     "name": "MEDIX",
                     "city": "Smithfield, RI",
-                    "title": "CVS Store Support Representative",
+                    "title": "Support Engineer",
                     "duration": "Aug 2015 - Nov 2015",
                     "description": [
                         "3-month contract providing help desk support for CVS store\n    locations with hardware and software troubleshooting to\n    maintain business operations"
@@ -147,7 +155,9 @@
                 ],
                 "frameworks": [
                     "Bootstrap",
-                    "Django"
+                    "Django",
+                    "Flask",
+                    "Jinja2"
                 ],
                 "tools": [
                     "CLI",
